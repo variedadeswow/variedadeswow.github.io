@@ -1,6 +1,7 @@
 # variedadeswow.github.io
 variedadeswow web page
 
+Esta publicado aquí <https://variedadeswow.github.io/#>
 # readme old
 
 Future Imperfect by HTML5 UP
