@@ -3608,3 +3608,12 @@ input, select, textarea {
 			}
 
 		}
+
+u {
+	text-decoration: none;
+ 	box-shadow: inset 0 14px 0 rgb(255, 254, 123);
+  	transition: box-shadow .3s;
+  	color: inherit;
+  	overflow: hidden;
+  	position: relative;
+	}
